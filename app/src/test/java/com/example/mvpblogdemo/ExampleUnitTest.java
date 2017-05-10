@@ -1,4 +1,4 @@
-package com.example.administrator.blogmvpdemo;
+package com.example.mvpblogdemo;
 
 import org.junit.Test;
 
